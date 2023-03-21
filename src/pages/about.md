@@ -3,34 +3,6 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+My interests encompass ideas within statistical learning theory and applied machine learning. Particularly within the field of few-shot learning, I'd like to research methods for improving the fast adaptivity of control models even while under stochastic settings. Applications of this research could range from better techniques for renewable energy adoption within smaller power grids, or improved portfolio optimisation strategies.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+I have a Combined Computer Science and Math BSc from [University of Victoria](https://uvic.ca). During my degree, I was able to complete projects on applications of machine learning in fields like [bioinformatics](), or [personal health](). I also developed more recreational interests in fields like financial mathematics and quantum information theory, in addition to my primary focus in statistical learning theory.
